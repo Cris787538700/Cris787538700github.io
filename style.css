@@ -1,0 +1,15 @@
+  .estilo-lindo{
+        background-color: green;  /* Color de fondo*/
+        color: white;   /* Texto blanco */
+        padding: 12px 24px; /* espacio interno del boton  */
+        font-size: 16px;  /* Tamaño de letra */
+        border: none; /* sin borde  */
+        border-radius: 8px; /* Esquinas curvas */
+        cursor: pointer; /* Manito cuando pasa el mouse */
+        transition: background-color 0.3s;
+        
+    }
+    .estilo-lindo:hover{     /* hover cuando pase por encima */
+        background-color: greenyellow;
+        
+    }
